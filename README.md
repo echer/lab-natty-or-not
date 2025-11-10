@@ -1,51 +1,51 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Caminhos da Inteligência Artificial: Guia Profissional para Iniciantes na Área de IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book foi desenvolvido para quem deseja ingressar profissionalmente na área
+de Inteligência Artificial. Aqui você encontrará uma visão clara da evolução da
+IA, suas aplicações, principais carreiras, ferramentas essenciais, habilidades
+exigidas e tendências para o futuro. Um guia direto, objetivo e prático para 
+orientar suas próximas decisões profissionais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1. [ChatGPT](https://chatgpt.com/) - Geração do conteúdo em texto.
+2. [Leonardo.AI](https://leonardo.ai/) - Geração de imagens baseados no texto
+3. [Google Documents](https://docs.google.com/document/d/1f65C42MmZy81g3WYvxs38annRcjPS0Gh7ET7WnOgiVM/edit?usp=sharing) - Edição do texto e geração do PDF
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Foram elaborados alguns prompts para o Chat-GPT pedindo a elaboração de
+topicos para o conteúdo do e-book, foram gerado entao os tópicos:
+    1. Introdução à Inteligência Artificial
+    2. O que é Inteligência Artificial?
+    3. Evolução da Inteligência Artificial
+    4. Subáreas e Aplicações
+    5. Mercado de Trabalho
+    6. Competências e Requisitos
+    7. Portfólio e Experiência
+    8. Perspectivas Futuras
+    9. Conclusão
+2. Em um segundo momento, para cada tópico gerado foi solicitado para gerar
+detalhadamente o conteudo, após a geração o texto foi copiado para um editor de 
+texto, onde foi necessário fazer várias adaptações, pois o texto gerado pela IA 
+cria muitas estruturas de topicos, listas, tabelas, trechos de textos com 
+travessão, emotions, titulos e estruturas de textos desnecessários.
+3. Depois do texto editado, foram gerados alguns imagens na Leonardo.AI para cada
+tópico, utilizando o próprio texto do tópico como base na geração da imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado obtido foi um e-book de 24 páginas sobre Inteligencia Artificial abordando de maneira simples e didática todos os principais tópicos da área perfeito para quem está iniciando. No caso das imagens da pra perceber que foram gerados por uma IA, mas o texto em si ficou bem próximo a um texto ordinário escrito por humano, porém precisou de várias modificações mesmo assim ainda é possível identificar os traços de IA. Em resumo fazer o conteúdo da IA parecer Natty é bem desafiador.
+
+[LINK PARA O E-BOOK AQUI](./TRABALHO-DIO-ALAN-ECHER.pdf)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O que consegui perceber é que ainda assim com a ajuda das várias ferramentas de
+IA gerando conteúdos, no caso a geração de texto e geração de imagem, é
+necessário um trabalho minucioso para verificar os dados gerados, tanto em
+texto quanto em imagem, para garantir a qualidade e assegurar também que os
+dados que foram gerados ali de fato são consistentes e verdadeiros, como um
+revisor da informação gerada. De fato as IA generativas agregam e muito valor
+na geração de conteúdos e facilitam muito o trabalho criativo, pode se dizer
+que até fazem todo o trabalho criativo, o que cabe a nós apenas editar e
+formatar o modo que queremos apresentar o conteúdo. OBS: A capa do e-book
+ficou com as informações todas desfiguradas e com textos incompletos como
+eu não tinha mais recursos grátis não consegui uma imagem melhor.
